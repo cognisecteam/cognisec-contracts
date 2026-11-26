@@ -1,0 +1,15 @@
+{
+  "name": "@cognisec/contracts",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "compile": "node scripts/compile.mjs"
+  },
+  "devDependencies": {
+    "solc": "0.8.38"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "5.6.1",
+    "@openzeppelin/contracts-upgradeable": "5.6.1"
+  }
+}

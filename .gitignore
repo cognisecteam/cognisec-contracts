@@ -1,0 +1,15 @@
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
+*.log
+out/
+cache/
+build/
+coverage/
+generated/
+exports/
+*.bin
+*.abi
+*.zip
